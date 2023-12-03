@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Fullstack Web developer from Bangladesh<br>🔭 I’m currently working on **School Management Software** and **Multi-vendor E-commerce Website**<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with <br>🌱 I’m currently learning **Laravel and React**<br>💬 Ask me about <br>⚡ Fun fact 
+A passionate Fullstack Web developer from Bangladesh<br>🔭 I’m currently working on **School Management Software** and **Multi-vendor E-commerce Website**<br>👯 I’m looking to collaborate on Laravel Project <br>🤝 I’m looking for help with <br>🌱 I’m currently learning **Laravel and React**<br>💬 Ask me about <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
