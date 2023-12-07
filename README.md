@@ -11,12 +11,11 @@ A passionate Fullstack Web developer from Bangladesh<br>🔭 I’m currently wor
 ![](https://github-readme-stats.vercel.app/api?username=IamMohiul&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IamMohiul&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMohiul&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="center">
-### 😂 Random Dev Meme
-</p>
-<p align="center">
+
+# 😂 Random Dev Meme
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
