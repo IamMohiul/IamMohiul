@@ -1,5 +1,12 @@
 # 💫 About Me:
-A passionate Fullstack Web developer from Bangladesh<br>🔭 I’m currently working on **School Management Software** and **Multi-vendor E-commerce Website**<br>👯 I’m looking to collaborate on Laravel Project <br>🤝 I’m looking for help with <br>🌱 I’m currently learning **Laravel and React**<br>💬 Ask me about <br>⚡ Fun fact
+A passionate Fullstack Web developer from Bangladesh<br>
+🔭 I’m currently studying in Mathematics and Computer Science.<br>
+👯 I’m looking to collaborate on Laravel Project.<br>
+🤝 I’m looking for help with <br>
+🌱  I'm on track for learning more about **Laravel, React, Vue JS, Next JS**<br>
+💬 Feel free to reach out to me for volunteering, or just for some interesting discussion about anything like movie, series, book etc. <br>
+✉️ You can shoot me an email at [immohiul@gmail.com](mailto:immohiul@gmail.com) I'll try to respond as soon as I can.
+📄  Please have a look at my [Resume](https://drive.google.com/file/d/1PgTaKS2ph5bXxCbuQe4jBnL6GhNWT9NW/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🌐 Socials:
