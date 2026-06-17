@@ -1,9 +1,21 @@
 # 💫 About Me:
-A passionate Fullstack Web developer from Bangladesh<br>
-🔭 I’m currently studying in Mathematics and Computer Science.<br>
-👯 I’m looking to collaborate on Laravel Project.<br>
-🌱 **Currently Learning:** Docker 🐳 Laravel Sanctum 🛡️<br>
-💬 Feel free to reach out to me for volunteering, or just for some interesting discussion about anything like movie, series, book etc. <br>
+A passionate Network Engineer from Bangladesh 🌐<br>
+🔭 Currently working as a **Network Engineer at Global Tech Information Systems**.<br>
+🌱 **Currently Learning:** Enterprise Networking, Network Security, Cisco Technologies, Sophos Firewall, Network Automation, and Infrastructure Design.<br>
+🚀 Recently deployed and configured enterprise network infrastructure using **Cisco Routers, Cisco Switches, and Sophos Firewalls**.
+
+🛡️ Areas of Interest:
+
+* Network Engineering
+* Cisco Routing & Switching
+* Sophos Firewall
+* Network Security
+* Infrastructure Design
+* Network Monitoring
+* Network Automation
+  
+👯 Looking to collaborate on network automation projects, infrastructure documentation, and enterprise networking solutions.
+💬 Feel free to reach out for discussions about networking, cybersecurity, infrastructure, technology, business, movies, books, or learning experiences. <br>
 ✉️ You can shoot me an email at [immohiul@gmail.com](mailto:immohiul@gmail.com) I'll try to respond as soon as I can. <br>
 📄  Please have a look at my [Resume](https://drive.google.com/file/d/1PgTaKS2ph5bXxCbuQe4jBnL6GhNWT9NW/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
